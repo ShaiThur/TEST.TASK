@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""Точка входа: python run.py --data ./data --out ./out"""
 import argparse
 import logging
 
